@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [LegitAuth](https://dc.legitauth.org)
 
-- 👨‍💻 All of my projects are available at [Aquantic Development](https://discord.gg/8nEPMQvYyw)
+- 👨‍💻 All of my projects are available at [Aquantic](https://discord.gg/8nEPMQvYyw)
 
 - 📫 Reach out to me on Discord: **@paidbycrypto.**
 
