@@ -1,1 +1,1 @@
-<a href="https://bentohub.netlify.app/" target="_blank"><img src="https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/686ebc58002e23c95b3e/preview?project=667d35ca0017fb21fc6c" /></a>
+[![BentoHub grid image](https://cloud.appwrite.io/v1/storage/buckets/667d390e003b1971a8be/files/686ebc58002e23c95b3e/preview?project=667d35ca0017fb21fc6c)](https://bentohub.netlify.app/)
